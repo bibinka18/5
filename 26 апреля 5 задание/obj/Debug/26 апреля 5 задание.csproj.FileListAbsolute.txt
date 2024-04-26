@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\впф\26 апреля 5 задание\bin\Debug\26 апреля 5 задание.exe.config
+C:\Users\user\Desktop\впф\26 апреля 5 задание\bin\Debug\26 апреля 5 задание.exe
+C:\Users\user\Desktop\впф\26 апреля 5 задание\bin\Debug\26 апреля 5 задание.pdb
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\App.g.cs
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание_MarkupCompile.cache
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание_MarkupCompile.lref
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.g.resources
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\_26_апреля_5_задание.Properties.Resources.resources
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.csproj.GenerateResource.cache
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.exe
+C:\Users\user\Desktop\впф\26 апреля 5 задание\obj\Debug\26 апреля 5 задание.pdb
